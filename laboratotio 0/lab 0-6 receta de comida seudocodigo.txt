@@ -1,0 +1,14 @@
+//huevo frito
+considerar como huevo el objeto que entregue el usuario
+considerar aceite al liquido que entregue el usuario
+considerar como cocina el objeto de que da energia calorofica
+coniderar sarten a el objeto concavo disponible
+
+tomar sarten y colocarlo sobre la cocina
+verter aceite sobre el sarten
+golpear el huevo y derramar su interior en el sarten
+si el huevo se nota solido entonces
+  dar vuelta en el sarten
+sino esperar y volver a verificar
+retirar el huevo del sarten
+presentar "huevo frito"

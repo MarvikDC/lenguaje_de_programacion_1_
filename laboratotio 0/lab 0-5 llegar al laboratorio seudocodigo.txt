@@ -1,0 +1,27 @@
+de matematica basica considerar "conteo" y "grados"
+de infrestructura considerar "gradas" y "puertas"
+definir inicio como la posion actual
+definir lab como destino
+definir paso como despazamiento hacia adelante
+definir subir como subir una grada
+definir derecha como rotar 90 grados horario
+definir irzquierda como rotar 90 grados antiorario
+definir pared como obstaculo
+inicio
+hasta que un obstaculo sea alacanzado
+  dar paso
+si obstaculo es alcanzado entonces
+  derecha
+hasta que un obstaculo sea alacanzado
+  dar paso
+si obstaculo es alcanzado entonces
+  izquierda
+Para a del 1 al 8
+  dar paso
+derecha
+Para a del 1 al 12
+  subir
+izquierda
+Abrir puerta
+dar paso
+las
