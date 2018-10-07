@@ -49,7 +49,7 @@ int main()
         if (unid=="m"||unid=="cm"||unid=="ft"||unid=="in")
         {
             rr=igualador(dato,unidad(unid));
-            if(menor1==0 && rr<mayor1 && rep==0)
+            if(menor1==0 && rep==0)
             {
                 menor1=rr;
                 menor_print=dato;
